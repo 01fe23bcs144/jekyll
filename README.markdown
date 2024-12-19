@@ -5,6 +5,23 @@
 [![Backers on Open Collective](https://opencollective.com/jekyll/backers/badge.svg)](#backers)
 [![Sponsors on Open Collective](https://opencollective.com/jekyll/sponsors/badge.svg)](#sponsors)
 
+
+
+# **DAA Course Project**
+- [Course Introduction](./Course_Intro.md)
+- [Project Introduction](./project_I.md)
+- [Team Details](./team_info.md)
+- [Business cases identified](./Business_cases.md)
+- [SDG mapping](https://01fe23bcs144.github.io/SDG-mapping-for-Business-cases/)<be>
+- [Individual pages](./Indi.md)
+
+---
+
+> "Cities are the greatest creation of humanity, and they hold the key to solving the world’s most pressing challenges."  
+> – **Enrique Peñalosa**
+
+---
+
 [ruby-gems]: https://rubygems.org/gems/jekyll
 [ci-workflow]: https://github.com/jekyll/jekyll/actions?query=workflow%3A%22Continuous+Integration%22+branch%3Amaster
 [appveyor]: https://ci.appveyor.com/project/jekyll/jekyll/branch/master
